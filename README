@@ -1,0 +1,11 @@
+program uses 3 types of datastructures I implemented each datastruture myself rather than importing $
+
+a Fifo queue - > holds mailbox data
+
+a Linked List -> to hold the ACL
+
+a Skip_list -> to create a statisticaly logn performance search for mailboxes.
+
+I was able to import my system calls to the kernel
+
+I tested each system call and found them to be working.
