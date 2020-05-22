@@ -4,8 +4,8 @@ a Fifo queue - > holds mailbox data
 
 a Linked List -> to hold the ACL
 
-a Skip_list -> to create a statisticaly logn performance search for mailboxes.
+a Skip_list -> Average logn performance search for mailboxes.
 
-I was able to import my system calls to the kernel
+import system calls to the kernel
 
-I tested each system call and found them to be working.
+
