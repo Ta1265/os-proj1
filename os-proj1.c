@@ -2,8 +2,8 @@
 #include <linux/stddef.h>
 #include <linux/const.h>
 #include <linux/kernel.h>
-#include <linux/uaccess.h> // for __copy_to_user() / from
-#include <linux/cred.h>//for getting uid
+#include <linux/uaccess.h>
+#include <linux/cred.h>
 #include <linux/syscalls.h>
 #include <linux/sched.h>
 #include "linux/uidgid.h"
